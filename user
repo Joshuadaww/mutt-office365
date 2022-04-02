@@ -1,0 +1,6 @@
+# User config
+set my_realname="Tester"
+set my_username="tester"
+set my_domain="example.co.id"
+set my_password="This password is secure"
+set my_lang="en_US"
