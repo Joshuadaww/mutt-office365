@@ -6,7 +6,7 @@ A mutt configuration file ready for Office 365
 ## Preamble
 
 Tested on Ubuntu 20.043 LTS
-Tested with Mutt Mutt 1.13.2 from latest downloads.
+Tested with Mutt 1.13.2 from latest downloads.
 
 Use your package manager to install Mutt.
 
